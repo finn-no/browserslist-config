@@ -1,0 +1,17 @@
+{
+  "name": "@finn-no/browserslist-config",
+  "version": "3.0.0",
+  "description": "FINN's browserslist config",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.test.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "browserslist": "^4.16.3",
+    "tap": "^14.11.0"
+  }
+}
